@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "country": "中国",
+    "title": "生成式人工智能服务管理暂行办法",
+    "year": 2023,
+    "topics": ["generative_ai", "risk"],
+    "summary_zh": "《生成式人工智能服务管理暂行办法》由国家网信办等七部门于2023年7月发布，并于2023年8月15日生效，是中国首部针对生成式人工智能服务的行政法规。该办法旨在促进生成式人工智能的健康发展和规范应用，保障国家安全和社会公共利益，要求提供生成式AI服务的企业遵守相关法律、加强内容安全和算法管理等。",
+    "official_url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+    "last_updated": "2025-12-19"
+  },
+  {
+    "country": "欧盟",
+    "title": "欧盟人工智能法案（AI Act）",
+    "year": 2024,
+    "topics": ["risk", "generative_ai"],
+    "summary_zh": "《欧盟人工智能法案》(AI Act)于2024年8月1日正式生效，是世界首部全面的人工智能法规。法案将AI应用分为不可接受风险、高风险和较低风险等级，不可接受风险的应用被禁止，高风险系统需遵守严格义务。根据实施时间表，部分禁止性规定和AI素养义务自2025年2月2日起生效，针对通用目的AI模型的治理规则于2025年8月2日起适用，高风险AI系统的要求延迟至2027年8月2日。",
+    "official_url": "https://digital-strategy.ec.europa.eu/en/policies/eu-artificial-intelligence-act",
+    "last_updated": "2025-12-19"
+  },
+  {
+    "country": "日本",
+    "title": "人工智能相关技术研发及利用促进法",
+    "year": 2025,
+    "topics": ["risk"],
+    "summary_zh": "《人工智能相关技术研发及利用促进法》（AI促进法）于2025年5月28日获日本国会通过，成为日本首部人工智能综合立法。该法旨在通过促进人工智能相关技术的研发和应用来提升国民生活质量并推动经济发展，同时关注技术可能带来的风险。法律于2025年9月1日全面生效，为未来更完善的AI监管奠定基础。",
+    "official_url": "https://fpf.org/blog/understanding-japans-ai-promotion-act/",
+    "last_updated": "2025-12-19"
+  },
+  {
+    "country": "英国",
+    "title": "促进创新的人工智能监管方法（白皮书）",
+    "year": 2023,
+    "topics": ["risk"],
+    "summary_zh": "英国政府于2023年3月发布《促进创新的人工智能监管方法》白皮书，提出构建一个比例适当、鼓励创新的AI监管框架。白皮书强调由行业监管机构在其管辖范围内解释和应用原则，而不是制定专门的AI法律，并鼓励国际互操作。白皮书指出英国现阶段通过现有法律体系监管AI，没有专门立法，这可能导致开发和应用AI时需遵守多部不同法律。",
+    "official_url": "https://www.gov.uk/government/publications/a-pro-innovation-approach-to-ai-regulation",
+    "last_updated": "2025-12-19"
+  },
+  {
+    "country": "美国",
+    "title": "安全、可靠和值得信任的人工智能发展和使用行政命令（EO 14110）",
+    "year": 2023,
+    "topics": ["risk", "privacy", "generative_ai"],
+    "summary_zh": "2023年10月30日，美国总统拜登签署《安全、可靠和值得信任的人工智能发展和使用行政命令》（EO 14110），确立政府层面推进负责任AI开发和应用的八项原则和优先事项。行政命令要求联邦机构制定AI安全和保障标准，并指示国家标准与技术研究院发布相关指南。命令还要求开发潜在双用途基础模型的公司及拥有大型计算集群的公司报告相关活动，以在促进创新的同时防范偏见、歧视和安全风险。",
+    "official_url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
+    "last_updated": "2025-12-19"
+  }
+]
